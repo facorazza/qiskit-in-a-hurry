@@ -1,1 +1,1 @@
-# qiskit-in-a-hurry
+# Qiskit In A Hurry
